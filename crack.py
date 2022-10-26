@@ -2,7 +2,6 @@
 import os,sys,time,random
 import requests,json
 from datetime import datetime as d
-from termcolor import colored
 
 
 # এখন আমরা, কোড স্টাইলিশ করে ডিজাইন করব।
